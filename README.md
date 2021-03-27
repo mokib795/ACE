@@ -1,5 +1,5 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/TURU_LOB_0"> ┗⋗⫷ 亗【 𝐓𝐄𝐀𝐌♤𝐀𝐂𝐄 】亗 ⫸⋖┛✧ 『 MOKIB』✧ ⟁⃤ { #ACE™ }™°♤🅱ʟᴏᴏᴅ —͟͟͞͞𖣘 🆂ᴜ ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
 <br>
 <p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
 </p>
