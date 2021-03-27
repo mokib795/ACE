@@ -91,23 +91,23 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KeinShin/Black-Lightning)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mokib795/ACE)
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/KeinShin/Black-Lightning&theme=midnight-purple)](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
+[![Run on Repl.it](https://repl.it/badge/github/mokib795/ACE&theme=midnight-purple)](https://repl.it/@Anmol10H/ACE-Repl#main.py)
 
 # The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github/KienShin/Black-Lightning.git
-cd Black Lightning 
+git clone https://github/mokib795/ACE.git
+cd ace
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m Black-Lightning
+python3 -m ace
 ```
 
 
@@ -122,5 +122,5 @@ python3 -m Black-Lightning
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Lightning Bot will not work without setting the mandatory vars.
+[+] The ace Bot will not work without setting the mandatory vars.
 ```
