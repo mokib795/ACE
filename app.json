@@ -1,6 +1,6 @@
 {
-  "name": "Black Lightning - UserBot",
-  "description": "An advanced Telethon Userbot, from @keinshin",
+  "name": "ACE_BOT 🔥 - UserBot",
+  "description": "An advanced Telethon Userbot, from @turu_lob_0 ",
   "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
   "keywords": [
    "telegram",
@@ -9,9 +9,9 @@
    "modular",
    "productivity"
   ],
-  "repository": "https://github.com/KeinShin/Black-Lightning",
-  "website": "https://github.com/KeinShin/Black-Lightning",
-  "success_url": "https://t.me/blacklightningot",
+  "repository": "https://github.com/mokib795/ACE",
+  "website": "https://github.com/mokib795/ACE",
+  "success_url": "https://t.me/acebot",
   "stack": "container",
   "env": {
    "ENV": {
