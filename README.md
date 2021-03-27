@@ -1,4 +1,4 @@
-Ok
+                 SCROLL DOWN 
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/TURU_LOB_0"> ┗⋗⫷ 亗【 𝐓𝐄𝐀𝐌♤𝐀𝐂𝐄 】亗 ⫸⋖┛✧ 『 MOKIB』✧ ⟁⃤ { #ACE™ }™°♤🅱ʟᴏᴏᴅ —͟͟͞͞𖣘 🆂ᴜ ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
 <br>
 <p align="center"><a href="https://t.me/ACE_TEAM_ON"><img src="https://telegra.ph/file/4a224276920e156371ee7.jpg"></a></p> 
@@ -33,8 +33,8 @@ Ok
 
 
 # Support
-<a href="https://t.me/blacklightningot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/lightningsupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/ACE_TEAM_ON"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Total Commands = CMDS Are More Than 470 :D
 # About ACE
@@ -93,9 +93,6 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mokib795/ACE)
 
-# String
-
-[![Run on Repl.it](https://repl.it/badge/github/mokib795/ACE&theme=midnight-purple)](https://repl.it/@Anmol10H/ACE-Repl#main.py)
 
 # The Normal Way
 
