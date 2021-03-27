@@ -1,123 +1,58 @@
-                 SCROLL DOWN 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/TURU_LOB_0"> ┗⋗⫷ 亗【 𝐓𝐄𝐀𝐌♤𝐀𝐂𝐄 】亗 ⫸⋖┛✧ 『 MOKIB』✧ ⟁⃤ { #ACE™ }™°♤🅱ʟᴏᴏᴅ —͟͟͞͞𖣘 🆂ᴜ ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
-<br>
+ ACE_BOT 🔥
+
+
 <p align="center"><a href="https://t.me/ACE_TEAM_ON"><img src="https://telegra.ph/file/4a224276920e156371ee7.jpg"></a></p> 
 </p>
 <h1>ACE</h1>
-<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
-<br>
-<br>
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/KeinShin/Black-Lightning)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning#copyright--license)
-[![Stars](https://img.shields.io/github/stars/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/stargazers)
-[![Forks](https://img.shields.io/github/forks/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/network/members)
-[![Issues Open](https://img.shields.io/github/issues/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues?q=is:closed)
-[![PR Open](https://img.shields.io/github/issues-pr/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/KeinShin/Black-Lightning?style=flat-square)
-<br>
-
-
-# Credits 
-## This is A Remix Bot Of Many UserBot.
-* [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
-* [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
-* [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
-* [Javes 2.0](https://github.com/Javes786/javes-2.0)
-* [TeleBot](https://github.com/xditya/TeleBot)
-* [Uniborg](https://github.com/SpEcHiDe/UniBorg)
-* [CipherX1-ops](https://t.me/CipherX1-ops)
-* [Hellboi-Danish](https://t.me/Hellboi-Danish)
-
-
-# Support
-
-<a href="https://t.me/ACE_TEAM_ON"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-## Total Commands = CMDS Are More Than 470 :D
-# About ACE
-
-1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
-
-2. Many Things For Adult Tho....
-
-3. Many Cool CMDS To Trick Your Friends
-
-4. Can Give Mast To Any Img Such As .Krish Mask,Gold Mask, ManyOther
-
-5. And More CMDS Just Deploy It 
-
-6. Can Spam Over 9999 Words And Can Spam Images And Medias
-
-7. Its Has Many Plugins To Trick Your Friends 
-
-8. Many  Animated Filters Plugins Like ```Rock``` ```Hello```  ```Heart```  ```Adults``` Filters Like ``Sax`` etc....
-
-9. Can Tell You About The Person when he/she Will Enter In Ur Grup That He Is Spammer And Will Ban him/her automatically
-
-10. Can Tell You Any State or COuntry Coivd Cases
-
-11. Can Give u Cricket Scores (Credits Given In Plugins)
-
-12. And If You Are Goinn To Sleep Do ```.night``` The Bot WIll Auto Reply Messages With A Good Night Message ( Some Thing Like Afk But Different)
-
-13. Afk Feature When You Are Goin Offline
-
-14. And If You Are Goinn For Study  Do ```.study``` The Bot WIll Auto Reply Messages With A Good Study Message ( Some Thing Like Afk But Different)
-
-15. And 5 types Of Hack CMDs
-
-16. And Many More CMDS 
-
-
-
-## Note-: 
-
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.......
-
-# Requirements 
-* Python 3.8 or Higher
-* Telegram [API Keys](https://my.telegram.org/apps)
-* String [Gernate from here](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
-
-
-# How To
-
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-<a href="https://app.gitbook.com/@poxsisofficial/s/blacace /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
-
-# Deploy
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mokib795/ACE)
-
-
-# The Normal Way
-
-Simply clone the repository and run the main file:
-```sh
-git clone https://github/mokib795/ACE.git
-cd ace
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-# <Create local_config.py with variables as given below>
-python3 -m ace
-```
 
 
 
 
-# Mandatory Vars
-```
-[+] Only two of the environment variables are mandatory.
 
-[+] This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
+-------------------------------------------------
 
-    [-] APP_ID:   You can get this value from https://my.telegram.org
-    [-] API_HASH :   You can get this value from https://my.telegram.org
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/mokib795/ACE?utm_source=github.com&utm_medium=referral&utm_content=mokib795/ACE&utm_campaign=Badge_Grade_Settings)
+[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+![GitHub repo size/mokib795/ACE](https://img.shields.io/github/repo-size/mokib795/ACE)
+[![HitCount](http://hits.dwyl.com/sameerpanthi/SAVAGE-IS-BACK.svg)](http://hits.dwyl.com/mokib795/ACE)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/TURU_LOB_0)
+<img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+-------------------------------------------------
+
+~ 𝐁𝐄𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐒𝐓 𝐀𝐖𝐀𝐈𝐓𝐄𝐃 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄 𝐘𝐎𝐔𝐑 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐖𝐈𝐓𝐇 𝐋𝐎𝐀𝐃 𝐎𝐅 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐋𝐔𝐗𝐔𝐑𝐈𝐎𝐔𝐒 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐄𝐃 𝐓𝐎 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐁𝐎𝐓 𝐀𝐍𝐃 𝐀𝐋𝐒𝐎 𝐎𝐍𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐁𝐎𝐓 𝐖𝐈𝐓𝐇 𝟑𝟏𝟎+ 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐖𝐈𝐓𝐇 𝐁𝐄𝐒𝐓 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 .
+
+-------------------------------------------------
+
+
+## STATUS OF THIS BOTS 
+<p align="left"><a href="https://github.com/mokib795/ACE/network/members"><img src="https://img.shields.io/github/forks/mokib795/ACE?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/mokib795/ACE/stargazers"><img src="https://img.shields.io/github/stars/mokib795/ACE?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/mokib795/ACE"></a><p align="left"><a href="https://github.com/mokib795/ACE"><img src="https://img.shields.io/github/last-commit/mokib795/ACE?style=plastic"></a>
+
+
+-------------------------------------------------
+
+匚尺乇卂ㄒㄖ尺 : [MOKIB](https://t.me/TURU_LOB_0)
+
+-------------------------------------------------
+
+## Join our Support Channel and Group regrading bug fixes
+
+
+
+-------------------------------------------------
+
+## FOR DEPLOY BOT 
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/SAVAGE-IS-BACK)
+
+------------------------------------------------
+
+TAKE STRING FROM HERE -
+
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://repl.it/@SenseiOfficial/String-Session-1)
     
-[+] The ace Bot will not work without setting the mandatory vars.
-```
+-------------------------------------------------
+
+
+
+
+ 
